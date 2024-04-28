@@ -1,0 +1,69 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\laiyang_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AcknowledgeMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\AcknowledgeMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AcknowledgeMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\AcknowledgeMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\BasicMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\BasicMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompleteSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\CompleteSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompleteSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\CompleteSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ControlMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\ControlMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ControlMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\ControlMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GrantSnapshotStart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\GrantSnapshotStart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GrantSnapshotStart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\GrantSnapshotStart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InitiateSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\InitiateSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InitiateSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\InitiateSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Process$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\Process$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Process.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\Process.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RequestSnapshotStart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\RequestSnapshotStart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RequestSnapshotStart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\RequestSnapshotStart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ResetSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\ResetSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ResetSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\ResetSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendMessagesToNeighbors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SendMessagesToNeighbors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendMessagesToNeighbors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SendMessagesToNeighbors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SetNeighbors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SetNeighbors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SetNeighbors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SetNeighbors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SnapshotCompletion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SnapshotCompletion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SnapshotCompletion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SnapshotCompletion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SnapshotStatus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SnapshotStatus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SnapshotStatus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\SnapshotStatus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StartSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\StartSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StartSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\StartSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UpdateBalance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\UpdateBalance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UpdateBalance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yashu\OneDrive\Desktop\Project distr\LaiYang\target\scala-2.13\classes\UpdateBalance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

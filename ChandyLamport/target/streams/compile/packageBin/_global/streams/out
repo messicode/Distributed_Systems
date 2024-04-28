@@ -1,0 +1,47 @@
+[debug] Packaging C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\projectscala_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	ChandyLamportMessage.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\ChandyLamportMessage.class
+[debug] 	InitiateGlobalSnapshot$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\InitiateGlobalSnapshot$.class
+[debug] 	InitiateGlobalSnapshot.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\InitiateGlobalSnapshot.class
+[debug] 	logback.xml
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\logback.xml
+[debug] 	Main$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\Main.class
+[debug] 	Marker$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\Marker$.class
+[debug] 	Marker.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\Marker.class
+[debug] 	Process$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\Process$.class
+[debug] 	Process.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\Process.class
+[debug] 	RequestSnapshotStart$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\RequestSnapshotStart$.class
+[debug] 	RequestSnapshotStart.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\RequestSnapshotStart.class
+[debug] 	ResetSnapshot$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\ResetSnapshot$.class
+[debug] 	ResetSnapshot.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\ResetSnapshot.class
+[debug] 	SendMessagesToNeighbors$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\SendMessagesToNeighbors$.class
+[debug] 	SendMessagesToNeighbors.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\SendMessagesToNeighbors.class
+[debug] 	SetNeighbors$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\SetNeighbors$.class
+[debug] 	SetNeighbors.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\SetNeighbors.class
+[debug] 	SnapshotStatus$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\SnapshotStatus$.class
+[debug] 	SnapshotStatus.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\SnapshotStatus.class
+[debug] 	TransactionMessage$.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\TransactionMessage$.class
+[debug] 	TransactionMessage.class
+[debug] 	  C:\Users\yashu\OneDrive\Desktop\Project distr\ChandyLamport\target\scala-2.13\classes\TransactionMessage.class
+[debug] Done packaging.
