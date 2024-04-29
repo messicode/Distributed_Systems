@@ -89,7 +89,7 @@ This project is licensed under the [MIT License](https://github.com/messicode/Di
 
 - 'Distributed Algorithms-An Intuitive Approach (2nd edition) by Wan Fokkink' was heavily referred to implement this algorithm.
 - [NetGameSim](https://github.com/0x1DOCD00D/NetGameSim) graph simulator by Mark Grechanik was used to generate the input .dot files.
-- These simulations [Ref 1](https://github.com/sarangsawant/BankingApplication-Chandy-Lamport-Snapshot) and [Ref2](https://github.com/nrasadi/global-state-snapshot) were referred to understand the actual working of the algorithm in a distributed setting.
+- These simulations [Ref1](https://github.com/sarangsawant/BankingApplication-Chandy-Lamport-Snapshot) and [Ref2](https://github.com/nrasadi/global-state-snapshot) were referred to understand the actual working of the algorithm in a distributed setting.
 
 ## NOTE
 
